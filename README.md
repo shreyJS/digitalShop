@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+This is an e-commerce marketplace web application using NextJS, react, express and MongoDB. It uses Payload CMS as backend for admin dashboard, and NextJS in frontend. This project is currently in development and is not hosted. 
 
 ```bash
 npm run dev
